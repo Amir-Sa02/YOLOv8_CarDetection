@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/Yolov8_training_project/cars-dataset/images/train
+val: /content/drive/MyDrive/Yolov8_training_project/cars-dataset/images/val
+test: /content/drive/MyDrive/Yolov8_training_project/cars-dataset/images/test
+
+nc: 5
+names: ['iranKhodro_dena', 'kia_cerato', 'mazda_3', 'peugeot_206', 'saipa_saina']
