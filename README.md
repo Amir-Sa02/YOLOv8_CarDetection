@@ -33,7 +33,7 @@ datasets/
 ```
 
 ## How to Run the Project
-**1. Open the Google Colab Notebook:** Click on the link to access the notebook: [click here](https://colab.research.google.com/drive/1udoXWKEvE4UcVRZ2HL426XK5ZEUNBetW#scrollTo=S1_tdMLhbs8z)
+**1. Open the Google Colab Notebook:** Click on the link to access the notebook: <a href="https://colab.research.google.com/drive/1udoXWKEvE4UcVRZ2HL426XK5ZEUNBetW#scrollTo=S1_tdMLhbs8z" target="_blank">click here</a>
 
 **2. Make a Copy:** In Colab, go to File > Save a copy in Drive to create your own copy of the notebook. This allows you to edit and run the code.
 
